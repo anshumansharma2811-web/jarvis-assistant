@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+psutil
+flask
+requests
+pyaudio
